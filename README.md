@@ -66,7 +66,7 @@ You can run this project locally without any complex setup.
 
 ## How It Works
 
-
+![Logo](./Screenshot2.png)
 
 The magic behind Prompt Perfector lies in the `SYSTEM_INSTRUCTION` sent to the Gemini API with every request. This detailed meta-prompt instructs the AI to act as a world-class prompt engineering expert. It guides the model to rewrite user input by:
 
