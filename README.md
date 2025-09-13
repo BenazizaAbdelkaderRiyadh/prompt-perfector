@@ -65,7 +65,7 @@ You can run this project locally without any complex setup.
     Because this project uses modern browser features and does not have a build step, you can simply open the `index.html` file in your browser. You may need a simple local server for the browser to correctly handle environment variables. A great tool for this is the [Live Server](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer) extension for VS Code.
 
 ## How It Works
-![Logo](./Screenshot.png)
+
 
 
 The magic behind Prompt Perfector lies in the `SYSTEM_INSTRUCTION` sent to the Gemini API with every request. This detailed meta-prompt instructs the AI to act as a world-class prompt engineering expert. It guides the model to rewrite user input by:
